@@ -1,0 +1,45 @@
+[
+    {
+      "id": 1,
+      "name": "Upper Nirar Dam",
+      "description": "Upper Nirar Dam is part of the Parambikulam Aliyar Project and is used for hydroelectric power generation and irrigation purposes.",
+      "constructed_year": 1970,
+      "image": "1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Lower Nirar Dam",
+      "description": "Lower Nirar Dam is an important component for water storage and supply, aiding irrigation and power generation.",
+      "constructed_year": 1975,
+      "image": "2.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Thunakadavu Dam",
+      "description": "Thunakadavu Dam, situated in a scenic area, plays a key role in irrigation and electricity generation.",
+      "constructed_year": 1965,
+      "image": "3.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Solayar Dam",
+      "description": "Solayar Dam is known for its vast water storage and contribution to irrigation and power generation.",
+      "constructed_year": 1964,
+      "image": "4.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Aliyar Dam",
+      "description": "Aliyar Dam is a popular tourist spot and plays a crucial role in the irrigation system of Tamil Nadu.",
+      "constructed_year": 1962,
+      "image": "5.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Thirumurthi Dam",
+      "description": "Thirumurthi Dam is well-known for its picturesque surroundings and contribution to irrigation and hydroelectric power.",
+      "constructed_year": 1966,
+      "image": "6.jpg"
+    }
+  ]
+  
